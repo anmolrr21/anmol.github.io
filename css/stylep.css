@@ -260,7 +260,7 @@ font-size: ;}
  height:280px;
  background-size:cover;
  background-repeat:no-repeat;
- background-image: url("cococake.png");
+ 
  display: flex;
  color: black;
  flex-direction: column;
