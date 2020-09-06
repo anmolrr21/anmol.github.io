@@ -23,8 +23,9 @@ nav {
  display: flex;
  justify-content: space-between;
  align-items:center;
- height:60px;
- background-color:#ffffff;
+ height:80px;
+ background-color:black;
+
  box-shadow:2px 2px 12px rgba(0,0,0,0.2);
  padding:0px 5%;
  
@@ -37,17 +38,17 @@ nav ul{
 nav ul li a{
  margin:30px;
  font-family:myriad pro regular;
- color:#505050;
- font-size: 15px;
+ color:white;
+ font-size: 18px;
  font-weight:700;
 }
 .logo{
  font-family:RoadTest;
- color:#000000;
+ color:white;
  font-size: 22px;
 }
 .active{
- color:#2d2a2a;
+ color:white;
  padding-left: 600px;
  font-weight:bold;
 }
@@ -163,7 +164,7 @@ button:active{
 }
 .services{
  height:600px;
- background-color:#ffffff;
+ background-color:#D3D3D3;
  padding: 2% 10% 0px 10%;
 }
 .services-text p:nth-child(1){
@@ -260,9 +261,9 @@ font-size: ;}
  height:280px;
  background-size:cover;
  background-repeat:no-repeat;
- background-image:url("css/cococake.PNG");
+ background-image: url("css/cococake.PNG");
  display: flex;
- color: Black;
+ color: black;
  flex-direction: column;
  justify-content: center;
  align-items: center;
