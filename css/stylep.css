@@ -23,9 +23,8 @@ nav {
  display: flex;
  justify-content: space-between;
  align-items:center;
- height:80px;
- background-color:black;
-
+ height:60px;
+ background-color:#ffffff;
  box-shadow:2px 2px 12px rgba(0,0,0,0.2);
  padding:0px 5%;
  
@@ -38,17 +37,17 @@ nav ul{
 nav ul li a{
  margin:30px;
  font-family:myriad pro regular;
- color:white;
- font-size: 18px;
+ color:#505050;
+ font-size: 15px;
  font-weight:700;
 }
 .logo{
  font-family:RoadTest;
- color:white;
+ color:#000000;
  font-size: 22px;
 }
 .active{
- color:white;
+ color:#2d2a2a;
  padding-left: 600px;
  font-weight:bold;
 }
@@ -261,7 +260,7 @@ font-size: ;}
  height:280px;
  background-size:cover;
  background-repeat:no-repeat;
- background-image: url("css/cococake.PNG");
+ background-image: url("cococake.PNG");
  display: flex;
  color: black;
  flex-direction: column;
