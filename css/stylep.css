@@ -260,9 +260,9 @@ font-size: ;}
  height:280px;
  background-size:cover;
  background-repeat:no-repeat;
- 
+ background-image:url("css/cococake.PNG");
  display: flex;
- color: black;
+ color: Black;
  flex-direction: column;
  justify-content: center;
  align-items: center;
